@@ -1,5 +1,3 @@
-
-
 on: [push]
 name: GettingStarted_Container_Workflow
 jobs:
